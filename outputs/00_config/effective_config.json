@@ -1,0 +1,83 @@
+{
+  "run_id": "20260712T104651Z",
+  "config": {
+    "project_name": "PCOS Acquisition Bias Audit Framework",
+    "random_seed": 42,
+    "input_file": "data/pcos_input.xlsx",
+    "sheet_name": 0,
+    "target_candidates": [
+      "group",
+      "target",
+      "PCOS",
+      "diagnosis"
+    ],
+    "positive_labels": [
+      "PCOS",
+      1,
+      "1",
+      true
+    ],
+    "id_candidates": [
+      "subject_id",
+      "patient_id",
+      "id"
+    ],
+    "administrative_patterns": [
+      "id",
+      "subject",
+      "document",
+      "file",
+      "record",
+      "admission",
+      "date",
+      "year",
+      "nr",
+      "number"
+    ],
+    "cv": {
+      "n_splits": 5,
+      "n_repeats": 20,
+      "n_jobs": -1
+    },
+    "bootstrap": {
+      "n_iterations": 500
+    },
+    "permutation": {
+      "n_iterations": 500
+    },
+    "stress_test": {
+      "n_iterations": 500,
+      "control_sizes": [
+        20,
+        30,
+        40,
+        45
+      ]
+    },
+    "fair_thresholds": {
+      "C1_strict": {
+        "min_coverage": 0.8,
+        "max_delta": 0.05
+      },
+      "C3_relaxed": {
+        "min_coverage": 0.6,
+        "max_delta": 0.15
+      },
+      "main": {
+        "min_coverage": 0.7,
+        "max_delta": 0.1
+      }
+    },
+    "age_candidates": [
+      "Wiek",
+      "age",
+      "Age"
+    ],
+    "models": [
+      "logistic",
+      "random_forest"
+    ],
+    "fast_mode": true
+  },
+  "python": "3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]"
+}
