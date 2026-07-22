@@ -1,0 +1,399 @@
+feature,importance,model,layer
+AMH ng/ml,0.6053666841170497,logistic,raw_schema
+BMI kg/m2,0.6053666841170497,logistic,raw_schema
+FSH IU/l,0.6053666841170497,logistic,raw_schema
+DHEAS ug/dl,0.6053666841170497,logistic,raw_schema
+MPV fL,0.6053666841170497,logistic,raw_schema
+Limf 10^3/uL,0.6053666841170497,logistic,raw_schema
+WBC 10^3/uL,0.6053666841170497,logistic,raw_schema
+kortyzol 8.00 ug/dl,0.6053666841170497,logistic,raw_schema
+Neu 10^3/uL,0.6053666841170497,logistic,raw_schema
+PRL ng/ml,0.6053666841170497,logistic,raw_schema
+PLT 10^3/uL,0.6053666841170497,logistic,raw_schema
+TSH uIU/ml,0.6053666841170497,logistic,raw_schema
+SHBG nmol/l,0.6053666841170497,logistic,raw_schema
+RDW %,0.6053666841170497,logistic,raw_schema
+insulina uU/ml,0.6053666841170497,logistic,raw_schema
+LH IU/l,0.6053666841170497,logistic,raw_schema
+testosteron ng/ml,0.6053666841170497,logistic,raw_schema
+glu 0' mg/dl,0.6053666841170497,logistic,raw_schema
+Rok KG,0.6031157385426065,logistic,raw_schema
+17 - OH progesteron (L79) (17-OHPG),0.22967589399327662,logistic,raw_schema
+17 OH progesteron (L79),0.17042365240581414,logistic,raw_schema
+Test z Synacthenem (L79_1),0.15678854747746057,logistic,raw_schema
+Test z Synacthenem (L79_2),0.15678854747746057,logistic,raw_schema
+DHEAS (DHEA),0.15454199879783717,logistic,raw_schema
+TSH (TSH),0.14848968440479732,logistic,raw_schema
+Test z Synacthenem (L79_0),0.14841304282401283,logistic,raw_schema
+LDL cholesterol (LDL),0.14824692157639915,logistic,raw_schema
+Cholesterol całkowity (TCHOL),0.14824692157639915,logistic,raw_schema
+HDL cholesterol (HDL),0.14824692157639915,logistic,raw_schema
+Triglicerydy (TG),0.14824692157639915,logistic,raw_schema
+LH (LH),0.14816553721903708,logistic,raw_schema
+FSH (FSH),0.14816553721903708,logistic,raw_schema
+FT4 (FT4),0.1480503734967579,logistic,raw_schema
+Kortyzol godz. 23:00 (KOR23),0.1479949932449546,logistic,raw_schema
+Testosteron (L_TESTOS),0.14789298206287194,logistic,raw_schema
+Kortyzol godz. 08:00 (KOR),0.14691576863216183,logistic,raw_schema
+SHBG (L_SHGB),0.14493997104641676,logistic,raw_schema
+PRL godz. 10:00 (PRL10),0.14466553222969425,logistic,raw_schema
+Krzywa cukrowa - 2 punktowa (L_GLU_0),0.141089688309581,logistic,raw_schema
+Krzywa cukrowa - 2 punktowa (GLU120),0.1407459391474769,logistic,raw_schema
+Anty-TPO (ATA_TPO),0.10240501708515135,logistic,raw_schema
+Kortyzol po Dexamethasonie (KORD),0.0843039570751692,logistic,raw_schema
+AMH (hormon anty-Mullerowski) (AMH_CP),0.07967488570558613,logistic,raw_schema
+Testosteron wolny (O41) (TEST-F),0.06788744334211011,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PDW)",0.05716975950605382,logistic,raw_schema
+Androstendion (I31),0.05678414346959267,logistic,raw_schema
+Wolny testosteron (O41.W),0.056754743637063516,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLCR)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PCT)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MPV)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCHC)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLT)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASO)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HCT)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASOB)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (WBC)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDWSD)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT#)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON#)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCH)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCV)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM#)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_B)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HGB)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_P)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS#)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDW)",0.05673044859801439,logistic,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RBC)",0.05673044859801439,logistic,raw_schema
+Insulina (INSUL),0.04593343403893918,logistic,raw_schema
+P/c antytyreoglobulinowe (anty-Tg) (ANTYTG2),0.04344404263229542,logistic,raw_schema
+Androstendion (ANDRO),0.04344404263229542,logistic,raw_schema
+AMH-anty Mullerian Hormon (AMH),0.041484084576015205,logistic,raw_schema
+Kortyzol po Dexamethasonie [2mg] (KOR2DXM),0.0413587767640347,logistic,raw_schema
+Kreatynina (KREAT),0.03650955048574649,logistic,raw_schema
+ALAT (ALT),0.03439886288569327,logistic,raw_schema
+ASPAT (AST),0.03439886288569327,logistic,raw_schema
+Morfologia CBC (RDWSD),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (WBC),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (HCT),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (HGB),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (MCV),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (MCH),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (PCT),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (RDW),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (PLCR),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (MPV),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (PLT),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (PDW),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (MCHC),0.033847172673658846,logistic,raw_schema
+Morfologia CBC (RBC),0.033847172673658846,logistic,raw_schema
+MDRD GFR (MDRD),0.03237914768251034,logistic,raw_schema
+Insulina po 75g glukozy (3pkt.) (INSUL_0),0.028922103402781483,logistic,raw_schema
+Insulina po 75g glukozy (3pkt.) (INSUL_1),0.028578354240677395,logistic,raw_schema
+Insulina po 75g glukozy (3pkt.) (INSUL_2),0.028578354240677395,logistic,raw_schema
+Kortyzol po Dexamethasonie [1mg] (KORD),0.02423264373302894,logistic,raw_schema
+Androstendion (I31) (ANDRO),0.023022616507149388,logistic,raw_schema
+"Jonogram (Sód, potas, chlorki) (L_K)",0.022967220461488327,logistic,raw_schema
+"Jonogram (Sód, potas, chlorki) (L_CI)",0.022967220461488327,logistic,raw_schema
+"Jonogram (Sód, potas, chlorki) (L_NA)",0.022967220461488327,logistic,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 120m)",0.022527548555016687,logistic,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 60m)",0.022527548555016687,logistic,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 0m)",0.022527548555016687,logistic,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 30m)",0.022527548555016687,logistic,raw_schema
+Anty-TG (p/c przeciw tyreoglobulinie) (ATG),0.022341031794641638,logistic,raw_schema
+Gamma Glutamylotranspeptydaza (GGTP),0.02232926869180236,logistic,raw_schema
+Bilirubina całkowita (TBIL),0.022268894653612727,logistic,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_2)",0.015564791282331555,logistic,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_0)",0.015564791282331555,logistic,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_1)",0.015249164125734968,logistic,raw_schema
+Estradiol (ESTRA),0.013148608135772932,logistic,raw_schema
+Białko C-reaktywne (CRP),0.01074288394504945,logistic,raw_schema
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10PEG)",0.010063855530851004,logistic,raw_schema
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10)",0.010063855530851004,logistic,raw_schema
+beta HCG (L_HCG),0.009706274604551958,logistic,raw_schema
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL16)",0.00944235922610169,logistic,raw_schema
+Anty-TG (O18),0.006769971972122709,logistic,raw_schema
+Ca125 (CA125),0.005857980889658452,logistic,raw_schema
+Dokument (NAZWA),0.003736003285838905,logistic,raw_schema
+Procent odzysku prolaktyny po precypitacji (MAKROPRL),0.002944452543392367,logistic,raw_schema
+IGF-1 (insulinopodobny czynnik wzrostu 1) (IGF1_L),0.0021978691861631984,logistic,raw_schema
+GH (hormon wzrostu) (L_GH),0.0021978691861631984,logistic,raw_schema
+CEA (CEA),0.002189443031364022,logistic,raw_schema
+Ca19.9 (CA199),0.002189443031364022,logistic,raw_schema
+Wapń zjonizowany (surowica) (L_CAZJS),0.0021845535977744876,logistic,raw_schema
+PRL 10:00 i 10:00 po PEG (PRL10PEG),0.002183898354109426,logistic,raw_schema
+PRL 10:00 i 10:00 po PEG (PRL10),0.002183898354109426,logistic,raw_schema
+Ferrytyna (FERR),0.0021331954484165596,logistic,raw_schema
+P/c przeciw receptorowi TSH (TRAb) (O15) (TRAB),0.0021250416588206875,logistic,raw_schema
+Fosforany nieorganiczne (FOSFOR),0.002123018202196818,logistic,raw_schema
+Wapń całkowity (TCAL),0.002123018202196818,logistic,raw_schema
+P/c przeciw GAD (p/c p. dekarbosylazie kwasu glutaminowego) (PCGAD),0.0021228445949662287,logistic,raw_schema
+Kortyzol po Dexamethasonie [4mg] (KOR4DXM),0.002069783594345617,logistic,raw_schema
+P/c przeciw receptorowi TSH (TRAb) (TRAB_2),0.0019234212538773773,logistic,raw_schema
+ASO - ilościowo (ASOIL),0.001922730073940938,logistic,raw_schema
+SHBG (SHGB),0.0018892311670300518,logistic,raw_schema
+Mocz - badanie ogólne (MLEU),0.001872359317856657,logistic,raw_schema
+Mocz - badanie ogólne (MERY),0.001872359317856657,logistic,raw_schema
+Glukoza (L_GLU),0.0018273682057925837,logistic,raw_schema
+FT3 (FT3),0.0017795547070247842,logistic,raw_schema
+Test Roma (POMENOP),0.0017197740967775227,logistic,raw_schema
+Test Roma (CA125),0.0017197740967775227,logistic,raw_schema
+Test Roma (PRMENOP),0.0017197740967775227,logistic,raw_schema
+Test Roma (I41),0.0015019174965590048,logistic,raw_schema
+Test Roma (ROMAPR),0.0015019174965590048,logistic,raw_schema
+Test Roma (ROMAPO),0.0015019174965590048,logistic,raw_schema
+Mocz - badanie ogólne (MPH),0.0014325291220605371,logistic,raw_schema
+Mocz - badanie ogólne (MCIEZA),0.0014325291220605371,logistic,raw_schema
+Test Roma (HE4),0.0009707460188912777,logistic,raw_schema
+Hemoglobina glikowana (L53.IFC),0.0006360539298757109,logistic,raw_schema
+Hemoglobina glikowana (L55),0.0006360539298757109,logistic,raw_schema
+D-dimery (DDIMER),0.000429673991365712,logistic,raw_schema
+Hemoglobina glikowana (HBA1C_2),0.00032108437836480527,logistic,raw_schema
+Hemoglobina glikowana (HBA1C_1),0.00032108437836480527,logistic,raw_schema
+LH 0' 30' 60' (LH0),0.0002984788907207271,logistic,raw_schema
+LH 0' 30' 60' (L_LH60),0.0002984788907207271,logistic,raw_schema
+LH 0' 30' 60' (L_LH30),0.0002984788907207271,logistic,raw_schema
+FSH 0' 30' 60' (L_FSH60),0.0002984788907207271,logistic,raw_schema
+FSH 0' 30' 60' (L_FSH0),0.0002984788907207271,logistic,raw_schema
+FSH 0' 30' 60' (L_FSH30),0.0002984788907207271,logistic,raw_schema
+Fibrynogen (L_FIB),0.0002571391869811311,logistic,raw_schema
+Żelazo (FE),0.0002472407987421474,logistic,raw_schema
+Dobowy rytm tolerancji glukozy (L_G2100),9.411292384996334e-05,logistic,raw_schema
+Dobowy rytm tolerancji glukozy (L_G1800),9.411292384996334e-05,logistic,raw_schema
+Dobowy rytm tolerancji glukozy (L_G1030),9.411292384996334e-05,logistic,raw_schema
+Dobowy rytm tolerancji glukozy (L_G2400),9.411292384996334e-05,logistic,raw_schema
+Dobowy rytm tolerancji glukozy (L_G1500),9.411292384996334e-05,logistic,raw_schema
+Dobowy rytm tolerancji glukozy (L_G700),9.411292384996334e-05,logistic,raw_schema
+Dobowy rytm tolerancji glukozy (L_G330),9.411292384996334e-05,logistic,raw_schema
+Dobowy rytm tolerancji glukozy (L_G1200),9.411292384996334e-05,logistic,raw_schema
+Kortyzol na czczo (KORCZ),6.714769929982872e-05,logistic,raw_schema
+Estradiol (L_ESTRA),4.2556102851921414e-05,logistic,raw_schema
+Protrombina (PT) (PTCZAS),1.6685900627126215e-05,logistic,raw_schema
+APTT Czas kaolinowo-kefalinowy (APTTCZ),1.6685900627126215e-05,logistic,raw_schema
+Protrombina (PT) (PTAKT),1.6685900627126215e-05,logistic,raw_schema
+Ferrytyna (L05),2.0594371978567224e-06,logistic,raw_schema
+Wiek,0.0,logistic,raw_schema
+Przyjęcie na oddział zlecający,0.0,logistic,raw_schema
+Wypis z oddziału zlecającego,0.0,logistic,raw_schema
+RDW %,0.09473871733966446,random_forest,raw_schema
+PLT 10^3/uL,0.060788996069707564,random_forest,raw_schema
+LH IU/l,0.05899842271473068,random_forest,raw_schema
+testosteron ng/ml,0.053213956360639594,random_forest,raw_schema
+SHBG nmol/l,0.05304139539838317,random_forest,raw_schema
+PRL ng/ml,0.05161428571428203,random_forest,raw_schema
+Limf 10^3/uL,0.05,random_forest,raw_schema
+Rok KG,0.04999999999999936,random_forest,raw_schema
+Neu 10^3/uL,0.04999999999999804,random_forest,raw_schema
+TSH uIU/ml,0.04999999999999779,random_forest,raw_schema
+DHEAS ug/dl,0.04424649176326895,random_forest,raw_schema
+FSH IU/l,0.04155619596541621,random_forest,raw_schema
+DHEAS (DHEA),0.033660872530260885,random_forest,raw_schema
+kortyzol 8.00 ug/dl,0.03322303360847257,random_forest,raw_schema
+MPV fL,0.032158075601374,random_forest,raw_schema
+insulina uU/ml,0.03169515669515505,random_forest,raw_schema
+WBC 10^3/uL,0.03151212553495012,random_forest,raw_schema
+BMI kg/m2,0.02,random_forest,raw_schema
+LDL cholesterol (LDL),0.017033590807741708,random_forest,raw_schema
+Cholesterol całkowity (TCHOL),0.01671897289586308,random_forest,raw_schema
+Testosteron (L_TESTOS),0.01646223576174827,random_forest,raw_schema
+HDL cholesterol (HDL),0.016254168394198777,random_forest,raw_schema
+SHBG (L_SHGB),0.008579710144927559,random_forest,raw_schema
+PRL godz. 10:00 (PRL10),0.008490028490028896,random_forest,raw_schema
+Kortyzol godz. 08:00 (KOR),0.008458244111348392,random_forest,raw_schema
+FT4 (FT4),0.008286937901498368,random_forest,raw_schema
+LH (LH),0.008246110325319059,random_forest,raw_schema
+Krzywa cukrowa - 2 punktowa (L_GLU_0),0.007841924398624883,random_forest,raw_schema
+AMH (hormon anty-Mullerowski) (AMH_CP),0.00686178099538631,random_forest,raw_schema
+Testosteron wolny (O41) (TEST-F),0.006148867337452692,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PDW)",0.005825659914057738,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM#)",0.0056786366402918065,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT)",0.005261282660332541,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HGB)",0.005115589804386542,random_forest,raw_schema
+Triglicerydy (TG),0.004341916304057029,random_forest,raw_schema
+glu 0' mg/dl,0.0017538896746817436,random_forest,raw_schema
+AMH ng/ml,0.0016690442225392264,random_forest,raw_schema
+Morfologia CBC (MCV),0.00018417493329823183,random_forest,raw_schema
+Morfologia CBC (RBC),0.00018203677510668161,random_forest,raw_schema
+ASPAT (AST),0.0001574722107863275,random_forest,raw_schema
+LH 0' 30' 60' (LH0),1.6298074001496239e-15,random_forest,raw_schema
+Wolny testosteron (O41.W),1.5609735726228796e-15,random_forest,raw_schema
+Glukoza (L_GLU),1.4488410471357461e-15,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_P)",1.2234657731368649e-15,random_forest,raw_schema
+Hemoglobina glikowana (L53.IFC),1.2123635428906094e-15,random_forest,raw_schema
+Hemoglobina glikowana (HBA1C_2),1.1612932837578419e-15,random_forest,raw_schema
+Kortyzol po Dexamethasonie [1mg] (KORD),1.0580425424677213e-15,random_forest,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 120m)",9.781064846946941e-16,random_forest,raw_schema
+"Jonogram (Sód, potas, chlorki) (L_CI)",9.30696612842686e-16,random_forest,raw_schema
+Test Roma (POMENOP),8.92619311798561e-16,random_forest,raw_schema
+Insulina po 75g glukozy (3pkt.) (INSUL_1),8.7374552037993865e-16,random_forest,raw_schema
+Androstendion (I31),8.504308368628142e-16,random_forest,raw_schema
+Morfologia CBC (PLT),7.89368570508435e-16,random_forest,raw_schema
+Test Roma (PRMENOP),7.627232179174388e-16,random_forest,raw_schema
+Fibrynogen (L_FIB),7.283063041540613e-16,random_forest,raw_schema
+Kortyzol po Dexamethasonie (KORD),6.452914334562769e-16,random_forest,raw_schema
+Dobowy rytm tolerancji glukozy (L_G2100),6.350475700855593e-16,random_forest,raw_schema
+Białko C-reaktywne (CRP),5.982485522208057e-16,random_forest,raw_schema
+Morfologia CBC (MCH),5.917488721251861e-16,random_forest,raw_schema
+P/c antytyreoglobulinowe (anty-Tg) (ANTYTG2),5.876329867669046e-16,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON)",5.873079800266818e-16,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDW)",5.774648101863619e-16,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS#)",5.709252946182749e-16,random_forest,raw_schema
+Morfologia CBC (RDW),5.317968287954327e-16,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON#)",4.638987362370365e-16,random_forest,raw_schema
+Procent odzysku prolaktyny po precypitacji (MAKROPRL),3.819167204710407e-16,random_forest,raw_schema
+Fosforany nieorganiczne (FOSFOR),3.6672528368066495e-16,random_forest,raw_schema
+FSH 0' 30' 60' (L_FSH0),2.431388423929065e-16,random_forest,raw_schema
+LH 0' 30' 60' (L_LH60),2.43045962124232e-16,random_forest,raw_schema
+Test z Synacthenem (L79_0),2.3536728122053073e-16,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS)",2.1205259770340282e-16,random_forest,raw_schema
+Dobowy rytm tolerancji glukozy (L_G1200),5.860422393799634e-17,random_forest,raw_schema
+Test z Synacthenem (L79_1),3.5721138279098625e-17,random_forest,raw_schema
+17 OH progesteron (L79),7.480397624283781e-18,random_forest,raw_schema
+Morfologia CBC (MPV),6.940686955387927e-18,random_forest,raw_schema
+MDRD GFR (MDRD),4.009762690494424e-18,random_forest,raw_schema
+Morfologia CBC (PDW),5.092130565363414e-19,random_forest,raw_schema
+Gamma Glutamylotranspeptydaza (GGTP),0.0,random_forest,raw_schema
+Hemoglobina glikowana (HBA1C_1),0.0,random_forest,raw_schema
+Androstendion (I31) (ANDRO),0.0,random_forest,raw_schema
+Anty-TPO (ATA_TPO),0.0,random_forest,raw_schema
+Anty-TG (p/c przeciw tyreoglobulinie) (ATG),0.0,random_forest,raw_schema
+Bilirubina całkowita (TBIL),0.0,random_forest,raw_schema
+CEA (CEA),0.0,random_forest,raw_schema
+Ca125 (CA125),0.0,random_forest,raw_schema
+Ca19.9 (CA199),0.0,random_forest,raw_schema
+ALAT (ALT),0.0,random_forest,raw_schema
+Wiek,0.0,random_forest,raw_schema
+GH (hormon wzrostu) (L_GH),0.0,random_forest,raw_schema
+FSH 0' 30' 60' (L_FSH30),0.0,random_forest,raw_schema
+FSH 0' 30' 60' (L_FSH60),0.0,random_forest,raw_schema
+FT3 (FT3),0.0,random_forest,raw_schema
+Ferrytyna (FERR),0.0,random_forest,raw_schema
+Ferrytyna (L05),0.0,random_forest,raw_schema
+Dobowy rytm tolerancji glukozy (L_G1800),0.0,random_forest,raw_schema
+Dobowy rytm tolerancji glukozy (L_G2400),0.0,random_forest,raw_schema
+Dobowy rytm tolerancji glukozy (L_G330),0.0,random_forest,raw_schema
+Dobowy rytm tolerancji glukozy (L_G700),0.0,random_forest,raw_schema
+Dokument (NAZWA),0.0,random_forest,raw_schema
+Estradiol (ESTRA),0.0,random_forest,raw_schema
+Estradiol (L_ESTRA),0.0,random_forest,raw_schema
+FSH (FSH),0.0,random_forest,raw_schema
+Dobowy rytm tolerancji glukozy (L_G1030),0.0,random_forest,raw_schema
+Dobowy rytm tolerancji glukozy (L_G1500),0.0,random_forest,raw_schema
+D-dimery (DDIMER),0.0,random_forest,raw_schema
+17 - OH progesteron (L79) (17-OHPG),0.0,random_forest,raw_schema
+ASO - ilościowo (ASOIL),0.0,random_forest,raw_schema
+Androstendion (ANDRO),0.0,random_forest,raw_schema
+APTT Czas kaolinowo-kefalinowy (APTTCZ),0.0,random_forest,raw_schema
+AMH-anty Mullerian Hormon (AMH),0.0,random_forest,raw_schema
+Anty-TG (O18),0.0,random_forest,raw_schema
+LH 0' 30' 60' (L_LH30),0.0,random_forest,raw_schema
+Krzywa cukrowa - 2 punktowa (GLU120),0.0,random_forest,raw_schema
+Kreatynina (KREAT),0.0,random_forest,raw_schema
+Insulina (INSUL),0.0,random_forest,raw_schema
+Insulina po 75g glukozy (3pkt.) (INSUL_0),0.0,random_forest,raw_schema
+IGF-1 (insulinopodobny czynnik wzrostu 1) (IGF1_L),0.0,random_forest,raw_schema
+Hemoglobina glikowana (L55),0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_B)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HCT)",0.0,random_forest,raw_schema
+Morfologia CBC (PLCR),0.0,random_forest,raw_schema
+Morfologia CBC (RDWSD),0.0,random_forest,raw_schema
+Morfologia CBC (WBC),0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASO)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASOB)",0.0,random_forest,raw_schema
+Mocz - badanie ogólne (MPH),0.0,random_forest,raw_schema
+Mocz - badanie ogólne (MLEU),0.0,random_forest,raw_schema
+Mocz - badanie ogólne (MERY),0.0,random_forest,raw_schema
+Mocz - badanie ogólne (MCIEZA),0.0,random_forest,raw_schema
+Morfologia CBC (MCHC),0.0,random_forest,raw_schema
+Morfologia CBC (HGB),0.0,random_forest,raw_schema
+Morfologia CBC (HCT),0.0,random_forest,raw_schema
+Morfologia CBC (PCT),0.0,random_forest,raw_schema
+"Jonogram (Sód, potas, chlorki) (L_K)",0.0,random_forest,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_2)",0.0,random_forest,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_1)",0.0,random_forest,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_0)",0.0,random_forest,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 30m)",0.0,random_forest,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 60m)",0.0,random_forest,raw_schema
+Insulina po 75g glukozy (3pkt.) (INSUL_2),0.0,random_forest,raw_schema
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 0m)",0.0,random_forest,raw_schema
+Kortyzol po Dexamethasonie [4mg] (KOR4DXM),0.0,random_forest,raw_schema
+Kortyzol po Dexamethasonie [2mg] (KOR2DXM),0.0,random_forest,raw_schema
+Kortyzol godz. 23:00 (KOR23),0.0,random_forest,raw_schema
+Kortyzol na czczo (KORCZ),0.0,random_forest,raw_schema
+"Jonogram (Sód, potas, chlorki) (L_NA)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCHC)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT#)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MPV)",0.0,random_forest,raw_schema
+Protrombina (PT) (PTCZAS),0.0,random_forest,raw_schema
+Protrombina (PT) (PTAKT),0.0,random_forest,raw_schema
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10PEG)",0.0,random_forest,raw_schema
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL16)",0.0,random_forest,raw_schema
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10)",0.0,random_forest,raw_schema
+P/c przeciw receptorowi TSH (TRAb) (TRAB_2),0.0,random_forest,raw_schema
+PRL 10:00 i 10:00 po PEG (PRL10),0.0,random_forest,raw_schema
+PRL 10:00 i 10:00 po PEG (PRL10PEG),0.0,random_forest,raw_schema
+P/c przeciw GAD (p/c p. dekarbosylazie kwasu glutaminowego) (PCGAD),0.0,random_forest,raw_schema
+P/c przeciw receptorowi TSH (TRAb) (O15) (TRAB),0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLCR)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PCT)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLT)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RBC)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDWSD)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (WBC)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCH)",0.0,random_forest,raw_schema
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCV)",0.0,random_forest,raw_schema
+Test Roma (HE4),0.0,random_forest,raw_schema
+Test Roma (I41),0.0,random_forest,raw_schema
+Test Roma (CA125),0.0,random_forest,raw_schema
+Przyjęcie na oddział zlecający,0.0,random_forest,raw_schema
+SHBG (SHGB),0.0,random_forest,raw_schema
+TSH (TSH),0.0,random_forest,raw_schema
+Test Roma (ROMAPR),0.0,random_forest,raw_schema
+Test Roma (ROMAPO),0.0,random_forest,raw_schema
+Test z Synacthenem (L79_2),0.0,random_forest,raw_schema
+Wapń całkowity (TCAL),0.0,random_forest,raw_schema
+Wapń zjonizowany (surowica) (L_CAZJS),0.0,random_forest,raw_schema
+Wypis z oddziału zlecającego,0.0,random_forest,raw_schema
+beta HCG (L_HCG),0.0,random_forest,raw_schema
+Żelazo (FE),0.0,random_forest,raw_schema
+OGTT_120_glucose,3.9007004650356025,logistic,harmonized
+Platelets,2.2070601722575014,logistic,harmonized
+MPV,2.2070601722575014,logistic,harmonized
+RDW,2.2070601722575014,logistic,harmonized
+Neutrophils,1.6831247392982434,logistic,harmonized
+Lymphocytes,1.6831247392982434,logistic,harmonized
+Fasting_glucose,0.8899063741313882,logistic,harmonized
+PRL,0.45790708124700286,logistic,harmonized
+SHBG,0.4566742813034251,logistic,harmonized
+LH,0.45653787180964134,logistic,harmonized
+FSH,0.45653787180964134,logistic,harmonized
+Cortisol_08,0.4542045124565507,logistic,harmonized
+Total_testosterone,0.4525188759363364,logistic,harmonized
+DHEAS,0.45237421005194345,logistic,harmonized
+TSH,0.41910155332790977,logistic,harmonized
+WBC,0.026022170495881746,logistic,harmonized
+Age,0.0,logistic,harmonized
+RDW,0.2922935913626405,random_forest,harmonized
+Platelets,0.2200219853413708,random_forest,harmonized
+MPV,0.19361767310130581,random_forest,harmonized
+OGTT_120_glucose,0.18961609680171523,random_forest,harmonized
+Neutrophils,0.036539522411051684,random_forest,harmonized
+Lymphocytes,0.03470926661494571,random_forest,harmonized
+Fasting_glucose,0.01505511723410521,random_forest,harmonized
+WBC,0.008946449765105476,random_forest,harmonized
+Total_testosterone,0.0023463187736835257,random_forest,harmonized
+Cortisol_08,0.002034957352125611,random_forest,harmonized
+PRL,0.0020178943403423846,random_forest,harmonized
+FSH,0.0009525570156222642,random_forest,harmonized
+DHEAS,0.0006701065860950212,random_forest,harmonized
+LH,0.0005546575131838691,random_forest,harmonized
+SHBG,0.00037765194055127375,random_forest,harmonized
+TSH,0.00024615384615562374,random_forest,harmonized
+Age,0.0,random_forest,harmonized
