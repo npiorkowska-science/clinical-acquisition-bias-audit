@@ -1,0 +1,18 @@
+canonical_feature,raw_columns_used,n_conflicts,coverage
+Age,Wiek,0,1.0
+Cortisol_08,kortyzol 8.00 ug/dl | Kortyzol godz. 08:00 (KOR),0,0.9090909090909091
+DHEAS,DHEAS ug/dl | DHEAS (DHEA),0,0.9135987978963186
+FSH,FSH IU/l | FSH (FSH),0,0.9113448534936138
+Fasting_glucose,glu 0' mg/dl | Glukoza (L_GLU) | Krzywa cukrowa - 2 punktowa (L_GLU_0),1,0.898572501878287
+LH,LH IU/l | LH (LH),0,0.9113448534936138
+Lymphocytes,"Limf 10^3/uL | Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM#)",0,0.7107438016528925
+MPV,MPV fL | Morfologia CBC (MPV),0,0.06686701728024042
+Neutrophils,"Neu 10^3/uL | Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT#)",0,0.7107438016528925
+OGTT_120_glucose,Krzywa cukrowa - 2 punktowa (GLU120),0,0.8632607062359129
+PRL,PRL ng/ml | PRL godz. 10:00 (PRL10),0,0.9090909090909091
+Platelets,PLT 10^3/uL | Morfologia CBC (PLT),0,0.06686701728024042
+RDW,RDW % | Morfologia CBC (RDW),0,0.06686701728024042
+SHBG,SHBG nmol/l | SHBG (SHGB) | SHBG (L_SHGB),0,0.9105935386927122
+TSH,TSH uIU/ml | TSH (TSH),0,0.9113448534936138
+Total_testosterone,testosteron ng/ml | Testosteron (L_TESTOS),0,0.9105935386927122
+WBC,"WBC 10^3/uL | Morfologia CBC (WBC) | Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (WBC)",0,0.743801652892562
