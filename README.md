@@ -74,7 +74,7 @@ Performance is evaluated using:
 
 If you use this repository, please cite:
 
-Piorkowska N, Kataryńczuk K, Stachowiak A, Ostromęcki A, Franik G, Bizoń A.
+Kataryńczuk K, Stachowiak A, Piorkowska N, Ostromęcki A, Franik G, Bizoń A.
 
 *Adversarial Validation Reveals Diagnostic Workflow Leakage in PCOS Machine Learning Models.*
 
